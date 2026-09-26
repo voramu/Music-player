@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Have Yourself A Merry Little Christmas",
+    "artist": "Frank Sinatra",
+    "category": "jazz",
+    "file": "public/music/jazz/1.mp3",
+    "duration": 156
+  },
+  {
+    "id": 2,
+    "title": "Jingle Bells",
+    "artist": "Frank Sinatra",
+    "category": "jazz",
+    "file": "public/music/jazz/2.mp3",
+    "duration": 118
+  },
+  {
+    "id": 3,
+    "title": "My Way",
+    "artist": "Frank Sinatra",
+    "category": "jazz",
+    "file": "public/music/jazz/3.mp3",
+    "duration": 277
+  },
+  {
+    "id": 4,
+    "title": "Strangers In The Night",
+    "artist": "Frank Sinatra",
+    "category": "jazz",
+    "file": "public/music/jazz/4.mp3",
+    "duration": 154
+  },
+  {
+    "id": 5,
+    "title": "Gloria!",
+    "artist": "Kim Jo Seph",
+    "category": "jazz",
+    "file": "public/music/jazz/5.mp3",
+    "duration": 194
+  },
+  {
+    "id": 6,
+    "title": "Hello Dolly",
+    "artist": "Louis Armstrong",
+    "category": "jazz",
+    "file": "public/music/jazz/6.mp3",
+    "duration": 143
+  },
+  {
+    "id": 7,
+    "title": "Let My People Go",
+    "artist": "Louis Armstrong",
+    "category": "jazz",
+    "file": "public/music/jazz/7.mp3",
+    "duration": 223
+  },
+  {
+    "id": 8,
+    "title": "What A Wonderful World",
+    "artist": "Louis Armstrong",
+    "category": "jazz",
+    "file": "public/music/jazz/8.mp3",
+    "duration": 140
+  },
+  {
+    "id": 9,
+    "title": "Summer Storm (The Four Seasons Summer, Op. 8, Rv315)",
+    "artist": "Antonio Vivaldi",
+    "category": "classic",
+    "file": "public/music/classic/1.mp3",
+    "duration": 167
+  },
+  {
+    "id": 10,
+    "title": "Весна (Времена Года RV 315)",
+    "artist": "Antonio Vivaldi",
+    "category": "classic",
+    "file": "public/music/classic/2.mp3",
+    "duration": 187
+  },
+  {
+    "id": 11,
+    "title": "Le Vent, Le Cri",
+    "artist": "Ennio Morricone",
+    "category": "classic",
+    "file": "public/music/classic/3.mp3",
+    "duration": 312
+  },
+  {
+    "id": 12,
+    "title": "Fur Elise (Bagatelle In A Minor, Woo 59)",
+    "artist": "Ludwig Van Beethoven",
+    "category": "classic",
+    "file": "public/music/classic/4.mp3",
+    "duration": 204
+  },
+  {
+    "id": 13,
+    "title": "Каприз N24 ля-минор",
+    "artist": "Niccolo Paganini",
+    "category": "classic",
+    "file": "public/music/classic/5.mp3",
+    "duration": 261
+  },
+  {
+    "id": 14,
+    "title": "In This Shirt",
+    "artist": "The Irrepressibles",
+    "category": "classic",
+    "file": "public/music/classic/6.mp3",
+    "duration": 333
+  },
+  {
+    "id": 15,
+    "title": "Black Velvet",
+    "artist": "Alannah Myles",
+    "category": "blues",
+    "file": "public/music/blues/1.mp3",
+    "duration": 273
+  },
+  {
+    "id": 16,
+    "title": "I Just Wanna Be With You",
+    "artist": "Chris Rea",
+    "category": "blues",
+    "file": "public/music/blues/2.mp3",
+    "duration": 221
+  },
+  {
+    "id": 17,
+    "title": "The Road To Hell. Part 2 (LP Version)",
+    "artist": "Chris Rea",
+    "category": "blues",
+    "file": "public/music/blues/3.mp3",
+    "duration": 266
+  },
+  {
+    "id": 18,
+    "title": "Have You Ever Seen the Rain",
+    "artist": "Creedence Clearwater Revived",
+    "category": "blues",
+    "file": "public/music/blues/4.mp3",
+    "duration": 255
+  },
+  {
+    "id": 19,
+    "title": "Oh, Darling!",
+    "artist": "The Beatles",
+    "category": "blues",
+    "file": "public/music/blues/5.mp3",
+    "duration": 211
+  },
+  {
+    "id": 20,
+    "title": "Living In A Ghost Town",
+    "artist": "The Rolling Stones",
+    "category": "blues",
+    "file": "public/music/blues/6.mp3",
+    "duration": 247
+  }
+]
